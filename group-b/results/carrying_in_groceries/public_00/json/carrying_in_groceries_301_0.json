@@ -1,0 +1,25 @@
+{
+  "task": "carrying_in_groceries",
+  "instance_id": 301,
+  "rollout_id": 0,
+  "steps": 21413,
+  "success": false,
+  "agent_distance": {
+    "base": 70.12919613694055,
+    "left": 115.0860475109836,
+    "right": 128.88043176542806
+  },
+  "normalized_agent_distance": {
+    "base": 0.5289551576716293,
+    "left": 0.1743139193140281,
+    "right": 0.15057832856520414
+  },
+  "q_score": {
+    "final": 0.25
+  },
+  "time": {
+    "simulator_steps": 21413,
+    "simulator_time": 713.7666666666667,
+    "normalized_time": 0.666641993181712
+  }
+}
