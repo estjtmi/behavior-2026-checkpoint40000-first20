@@ -1,0 +1,25 @@
+{
+  "task": "loading_the_car",
+  "instance_id": 302,
+  "rollout_id": 0,
+  "steps": 28840,
+  "success": false,
+  "agent_distance": {
+    "base": 33.586301106965806,
+    "left": 107.35824781415965,
+    "right": 123.88010558594118
+  },
+  "normalized_agent_distance": {
+    "base": 1.4386103383673565,
+    "left": 0.1731166480303596,
+    "right": 0.17837650279261438
+  },
+  "q_score": {
+    "final": 0.0
+  },
+  "time": {
+    "simulator_steps": 28840,
+    "simulator_time": 961.3333333333334,
+    "normalized_time": 0.6666563800277392
+  }
+}
