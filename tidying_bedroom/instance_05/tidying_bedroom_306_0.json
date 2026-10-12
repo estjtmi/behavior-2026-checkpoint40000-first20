@@ -1,0 +1,25 @@
+{
+  "task": "tidying_bedroom",
+  "instance_id": 306,
+  "rollout_id": 0,
+  "steps": 16557,
+  "success": false,
+  "agent_distance": {
+    "base": 8.130425819509583,
+    "left": 42.999230354284464,
+    "right": 44.72539419499617
+  },
+  "normalized_agent_distance": {
+    "base": 4.107804528498182,
+    "left": 0.2942703833474361,
+    "right": 0.2815581668234658
+  },
+  "q_score": {
+    "final": 0.0
+  },
+  "time": {
+    "simulator_steps": 16557,
+    "simulator_time": 551.9,
+    "normalized_time": 0.6666331461013468
+  }
+}
