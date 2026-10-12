@@ -1,0 +1,25 @@
+{
+  "task": "collecting_childrens_toys",
+  "instance_id": 304,
+  "rollout_id": 0,
+  "steps": 28780,
+  "success": false,
+  "agent_distance": {
+    "base": 21.28769532694116,
+    "left": 85.99348622145482,
+    "right": 92.13176815771021
+  },
+  "normalized_agent_distance": {
+    "base": 2.743594320709973,
+    "left": 0.28078522061332367,
+    "right": 0.2801368140012201
+  },
+  "q_score": {
+    "final": 0.0
+  },
+  "time": {
+    "simulator_steps": 28780,
+    "simulator_time": 959.3333333333334,
+    "normalized_time": 0.6666547949965254
+  }
+}
