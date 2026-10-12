@@ -1,6 +1,0 @@
-{
-  "reason": "User authorized restart for throughput; first rollout interrupted, no completed scores; preserved artifacts",
-  "archive": "/workspace/group-b-run/failures/picking_up_toys_public_00_cpu_restart_02",
-  "math_threads": 1,
-  "policy_reset": "fresh server process"
-}
