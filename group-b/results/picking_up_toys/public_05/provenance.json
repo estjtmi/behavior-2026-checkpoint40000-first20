@@ -1,0 +1,19 @@
+{
+  "checkpoint": "estjtmi/behavior-2026-pi05-15tasks/checkpoint_40000",
+  "model_revision": "479fd5240a5150d69903506d01c84cd77d25bbd2",
+  "training_revision": "be82c0229384aeb4c64ac0eac1742ab71e4a3647",
+  "evaluator_release": "v3.9.3-post1",
+  "evaluator_revision": "bd049de3119acdcdf2334fe9e1ebe060fa20c108",
+  "wrapper": "omnigibson.eval.wrappers.DefaultWrapper",
+  "camera_resolution": [
+    224,
+    224
+  ],
+  "num_envs": 1,
+  "num_rollouts": 1,
+  "mode": "public_test",
+  "cuda_device": 0,
+  "task": "picking_up_toys",
+  "task_id": 7,
+  "public_index": 5
+}
