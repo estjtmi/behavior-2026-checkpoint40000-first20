@@ -1,0 +1,25 @@
+{
+  "task": "moving_boxes_to_storage",
+  "instance_id": 303,
+  "rollout_id": 0,
+  "steps": 21895,
+  "success": false,
+  "agent_distance": {
+    "base": 39.35712869193769,
+    "left": 85.87241877862209,
+    "right": 83.69197142285935
+  },
+  "normalized_agent_distance": {
+    "base": 0.9351571423842088,
+    "left": 0.09737818171347168,
+    "right": 0.12889527892102606
+  },
+  "q_score": {
+    "final": 0.0
+  },
+  "time": {
+    "simulator_steps": 21895,
+    "simulator_time": 729.8333333333334,
+    "normalized_time": 0.666646494633478
+  }
+}
